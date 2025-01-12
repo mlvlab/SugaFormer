@@ -1,0 +1,3 @@
+salesforce-lavis
+scikit-learn
+numpy==1.24.4
