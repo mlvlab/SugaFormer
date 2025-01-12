@@ -13,4 +13,4 @@ export GPUS_PER_NODE=4
         --epochs 15 \
         --lr_drop 13 \
         --batch_size 4 \
-        --output_dir exps/vaw/supervised_/
+        --output_dir exps/vaw/supervised/

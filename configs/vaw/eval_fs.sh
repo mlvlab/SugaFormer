@@ -11,6 +11,6 @@ export GPUS_PER_NODE=4
         --zrse \
         --dec_layers 3 \
         --batch_size 4 \
-        --pretrained exps/vaw/supervised_/checkpoint.pth \
-        --output_dir exps/vaw/supervised__/
+        --pretrained exps/vaw/supervised/checkpoint.pth \
+        --output_dir exps/vaw/supervised/
 

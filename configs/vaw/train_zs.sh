@@ -12,5 +12,5 @@ export GPUS_PER_NODE=4
         --dec_layers 3 \
         --epochs 9 \
         --batch_size 4 \
-        --output_dir exps/vaw/zero_shot_/
+        --output_dir exps/vaw/zero_shot/
 

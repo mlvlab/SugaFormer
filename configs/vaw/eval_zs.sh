@@ -11,5 +11,5 @@ export GPUS_PER_NODE=4
         --zrse \
         --dec_layers 3 \
         --batch_size 4 \
-        --pretrained exps/vaw/zero_shot_/checkpoint.pth \
-        --output_dir exps/vaw/zero_shot__/
+        --pretrained exps/vaw/zero_shot/checkpoint.pth \
+        --output_dir exps/vaw/zero_shot/
