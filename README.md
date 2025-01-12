@@ -57,25 +57,25 @@ data/
 ### VAW Fully-Supervised
 Train the model in the fully-supervised setting:
 ```bash
-./configs/vaw_fs_train.sh
+./configs/vaw/train_fs.sh
 ```
 
 ### VAW Zero-Shot (base2novel)
 Train the model for zero-shot attribute classification in zero-shot setting:
 ```bash
-./configs/vaw_zs_train.sh
+./configs/vaw/train_zs.sh
 ```
 ## Evaluation
 
 ### VAW Fully-Supervised
 Evaluate the model in the fully-supervised setting:
 ```bash
-./configs/vaw_fs_eval.sh
+./configs/vaw/eval_fs.sh
 ```
 ### VAW Zero-Shot (base2novel)
 Evaluate the model in the zero-shot setting:
 ```bash
-./configs/vaw_zs_eval.sh
+./configs/vaw/eval_zs.sh
 ```
 
 ## Acknowledgements
